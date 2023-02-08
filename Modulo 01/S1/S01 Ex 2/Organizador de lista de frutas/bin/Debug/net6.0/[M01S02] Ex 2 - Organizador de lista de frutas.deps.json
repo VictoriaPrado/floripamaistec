@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "[M01S02] Ex 2 - Organizador de lista de frutas/1.0.0": {
+        "runtime": {
+          "[M01S02] Ex 2 - Organizador de lista de frutas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "[M01S02] Ex 2 - Organizador de lista de frutas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

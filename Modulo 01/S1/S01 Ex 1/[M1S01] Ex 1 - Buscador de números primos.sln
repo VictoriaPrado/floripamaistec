@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[M1S01] Ex 1 - Buscador de números primos", "[M1S01] Ex 1 - Buscador de números primos\[M1S01] Ex 1 - Buscador de números primos.csproj", "{E71AB81A-7A43-49DC-AFE6-72AA01EDA44F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E71AB81A-7A43-49DC-AFE6-72AA01EDA44F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E71AB81A-7A43-49DC-AFE6-72AA01EDA44F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E71AB81A-7A43-49DC-AFE6-72AA01EDA44F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E71AB81A-7A43-49DC-AFE6-72AA01EDA44F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92CC5580-1C59-473C-B36A-F029FF372F54}
+	EndGlobalSection
+EndGlobal
