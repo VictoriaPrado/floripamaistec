@@ -1,0 +1,15 @@
+C:\Users\victo\source\repos\[M1S03] Ex 1\[M1S03] Ex 1\bin\Debug\net6.0\[M1S03] Ex 1.exe
+C:\Users\victo\source\repos\[M1S03] Ex 1\[M1S03] Ex 1\bin\Debug\net6.0\[M1S03] Ex 1.deps.json
+C:\Users\victo\source\repos\[M1S03] Ex 1\[M1S03] Ex 1\bin\Debug\net6.0\[M1S03] Ex 1.runtimeconfig.json
+C:\Users\victo\source\repos\[M1S03] Ex 1\[M1S03] Ex 1\bin\Debug\net6.0\[M1S03] Ex 1.dll
+C:\Users\victo\source\repos\[M1S03] Ex 1\[M1S03] Ex 1\bin\Debug\net6.0\[M1S03] Ex 1.pdb
+C:\Users\victo\source\repos\[M1S03] Ex 1\[M1S03] Ex 1\obj\Debug\net6.0\[M1S03] Ex 1.csproj.AssemblyReference.cache
+C:\Users\victo\source\repos\[M1S03] Ex 1\[M1S03] Ex 1\obj\Debug\net6.0\[M1S03] Ex 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\source\repos\[M1S03] Ex 1\[M1S03] Ex 1\obj\Debug\net6.0\[M1S03] Ex 1.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\[M1S03] Ex 1\[M1S03] Ex 1\obj\Debug\net6.0\[M1S03] Ex 1.AssemblyInfo.cs
+C:\Users\victo\source\repos\[M1S03] Ex 1\[M1S03] Ex 1\obj\Debug\net6.0\[M1S03] Ex 1.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\[M1S03] Ex 1\[M1S03] Ex 1\obj\Debug\net6.0\[M1S03] Ex 1.dll
+C:\Users\victo\source\repos\[M1S03] Ex 1\[M1S03] Ex 1\obj\Debug\net6.0\refint\[M1S03] Ex 1.dll
+C:\Users\victo\source\repos\[M1S03] Ex 1\[M1S03] Ex 1\obj\Debug\net6.0\[M1S03] Ex 1.pdb
+C:\Users\victo\source\repos\[M1S03] Ex 1\[M1S03] Ex 1\obj\Debug\net6.0\[M1S03] Ex 1.genruntimeconfig.cache
+C:\Users\victo\source\repos\[M1S03] Ex 1\[M1S03] Ex 1\obj\Debug\net6.0\ref\[M1S03] Ex 1.dll
