@@ -1,0 +1,15 @@
+C:\Users\victo\source\repos\Trat Exc Regra de Negócio\Trat Exc Regra de Negócio\bin\Debug\net6.0\Trat Exc Regra de Negócio.exe
+C:\Users\victo\source\repos\Trat Exc Regra de Negócio\Trat Exc Regra de Negócio\bin\Debug\net6.0\Trat Exc Regra de Negócio.deps.json
+C:\Users\victo\source\repos\Trat Exc Regra de Negócio\Trat Exc Regra de Negócio\bin\Debug\net6.0\Trat Exc Regra de Negócio.runtimeconfig.json
+C:\Users\victo\source\repos\Trat Exc Regra de Negócio\Trat Exc Regra de Negócio\bin\Debug\net6.0\Trat Exc Regra de Negócio.dll
+C:\Users\victo\source\repos\Trat Exc Regra de Negócio\Trat Exc Regra de Negócio\bin\Debug\net6.0\Trat Exc Regra de Negócio.pdb
+C:\Users\victo\source\repos\Trat Exc Regra de Negócio\Trat Exc Regra de Negócio\obj\Debug\net6.0\Trat Exc Regra de Negócio.csproj.AssemblyReference.cache
+C:\Users\victo\source\repos\Trat Exc Regra de Negócio\Trat Exc Regra de Negócio\obj\Debug\net6.0\Trat Exc Regra de Negócio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\source\repos\Trat Exc Regra de Negócio\Trat Exc Regra de Negócio\obj\Debug\net6.0\Trat Exc Regra de Negócio.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\Trat Exc Regra de Negócio\Trat Exc Regra de Negócio\obj\Debug\net6.0\Trat Exc Regra de Negócio.AssemblyInfo.cs
+C:\Users\victo\source\repos\Trat Exc Regra de Negócio\Trat Exc Regra de Negócio\obj\Debug\net6.0\Trat Exc Regra de Negócio.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\Trat Exc Regra de Negócio\Trat Exc Regra de Negócio\obj\Debug\net6.0\Trat Exc Regra de Negócio.dll
+C:\Users\victo\source\repos\Trat Exc Regra de Negócio\Trat Exc Regra de Negócio\obj\Debug\net6.0\refint\Trat Exc Regra de Negócio.dll
+C:\Users\victo\source\repos\Trat Exc Regra de Negócio\Trat Exc Regra de Negócio\obj\Debug\net6.0\Trat Exc Regra de Negócio.pdb
+C:\Users\victo\source\repos\Trat Exc Regra de Negócio\Trat Exc Regra de Negócio\obj\Debug\net6.0\Trat Exc Regra de Negócio.genruntimeconfig.cache
+C:\Users\victo\source\repos\Trat Exc Regra de Negócio\Trat Exc Regra de Negócio\obj\Debug\net6.0\ref\Trat Exc Regra de Negócio.dll
