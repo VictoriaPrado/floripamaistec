@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J5XuWJCGGfgiP2xt43Kx/0MorvhBIM/3Bm4KgXuBzLU1p6AxQN264mFbmL4Ecbl5kJe3XXdS96dBfhC4GxMH6g==",
+  "dgSpecHash": "AslU0THJwtuOTEvuUXM9cINYZJ976bDHTEzxTLVupczwINt4OViOYv1Nhb2vBeaOIHaj3fnPsUKVr1GMVY6Wpw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\victo\\source\\repos\\School\\School\\School.csproj",
+  "projectFilePath": "C:\\Users\\victo\\OneDrive\\Área de Trabalho\\FloripaMaisTec\\GitHub\\floripamaistec\\Modulo 01\\S10\\School\\School\\School.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\victo\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
