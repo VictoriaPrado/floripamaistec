@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plataforma Digital</title>
+</head>
+<body>  <!--Exercicio 01 -->
+    <form>
+        <fieldset>
+            <label for="email">Email</label>
+            <input id="email" type="email" required>
+        </fieldset>
+        <fieldset>
+            <label for="senha">Senha</label>
+            <input id="senha" type="password" required minlength="10">
+        </fieldset>
+        <fieldset>
+            <label for="senhaC">Confirmar Senha</label>
+            <input id="senhaC" type="password" required minlength="10">
+        </fieldset>
+        <div class="botoes-form">
+            <div>
+                <button type="submit" id="btn-cadastrar" onclick=" validarSenha()">Cadastrar</button>
+            </div>
+        </div>
+    </form>
+    <script src="./service/validarSenha.js"></script>
+</body>
+</html>
